@@ -1,0 +1,26 @@
+# Active Directory Helpdesk Assistant (Lite Version)
+
+A lightweight, console-based PowerShell tool designed for IT Support Specialists and Helpdesk Technicians to quickly check user account status without opening ADUC.
+
+## 🚀 Lite Version Features:
+* Quick User Status Check (Enabled, Locked Out, Full Name, Password Last Set)
+* 100% clean, documented, and production-ready code
+
+---
+
+## 🔥 GET THE FULL VERSION (Automation Kit)
+
+Want to do more right from the console? The **Full Version** includes powerful automation features to streamline your daily workflow:
+
+* **Instant Password Reset** (Automatically forces password change at next logon)
+* **One-Click Account Unlock** 
+* **Priority Updates & Support**
+
+### 🎯 [Download the Full Version on Gumroad for just $9!](https://applebziava.gumroad.com/l/hgbxig)
+
+---
+
+## 📋 How to Use:
+1. Download `Simple_AD_Assistant.ps1`.
+2. Open the file and replace `"your-domain-controller.local"` with your actual Domain Controller FQDN or IP.
+3. Open PowerShell as Administrator and run the script.
